@@ -9,7 +9,7 @@ Sample   Tech   Temp   DryWt
 32   Raisa   5   0.626
 29   Raisa   5   0.634
 24   Cita   5.5   0.565
-25   Fatima   5.5   0.61
+25   Fatima   5.5  0.61       
 27   Raisa   5.5   0.62
 23   Fatima   5.5   .
 26   Mark   5.5   0.64
